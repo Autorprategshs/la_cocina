@@ -1,0 +1,6 @@
+# El script exportador contiene credenciales DB — no subir
+exportar_fallback.php
+
+# Archivos temporales
+*.tmp
+*.log
